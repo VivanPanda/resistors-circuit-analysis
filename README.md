@@ -13,4 +13,4 @@ This was my solution to an assignment from [*this lesson*](https://www.youtube.c
 ## Images
 
 <img src="images/multimeter.JPG">
-<img src="images/circuit.HEIC">
+<img src="images/serialmonitor.png">
